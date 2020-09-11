@@ -1,4 +1,4 @@
-# Angular Commands.
+# Angular CLI Commands.
 
 
 
@@ -7,6 +7,7 @@
 ## Contents at a Glance.
 * [About.](#about)
 * [Documentation.](#documentation)
+* [General.](#general)
 * [Help.](#help)
 
 
@@ -25,16 +26,21 @@
 
 
 
-## general 
+## General. 
 
 | Key/Command                                                                         | Description                                                             |
 | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | ng new [nameProject]                                                                | Create new project.                                                     |
 | ng g c [nameComponent] --skipTest                                                   | Create component and skip tests for this component.                     |
 | ng g c [nameComponent]                                                              | Create component with tests.                                            |
+| ng generate component [nameComponent]                                               |                                                                         |
 | ng g m [nameModule]                                                                 | Create module.                                                          |
-| npm start                                                                           | Run project.                                                            |
+| ng generate service [nameService]                                                   | Create service.                                                         |
+| ng version                                                                          |                                                                         |
+| ng serve                                                                            |                                                                         |
+| ng add @angular/material                                                            | Add component Angular Material.                                         |
 |                                                                                     |                                                                         |
+
 
 
 
