@@ -25,6 +25,7 @@
 ## Documentation.
 * [Node JS.](https://nodejs.org/en/docs/)
 * [Angular.](https://angular.io/docs)
+* [Angular CLI.](https://cli.angular.io/)
 * [TypeScript.](https://www.typescriptlang.org/docs/home.html)
 * [Bootstrap.](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 * [Angular Material.](https://material.angular.io/)
