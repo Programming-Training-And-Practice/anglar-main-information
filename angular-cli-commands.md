@@ -32,10 +32,12 @@
 | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | ng new [nameProject]                                                                | Create new project.                                                     |
 | ng g c [nameComponent] --skipTest                                                   | Create component and skip tests for this component.                     |
-| ng g c [nameComponent]                                                              | Create component with tests.                                            |
-| ng generate component [nameComponent]                                               |                                                                         |
+| ng generate component [nameComponent]                                               | Create component.                                                       |
+| ng g c [nameComponent]                                                              | Create component.                                                       |
+| ng generate module [nameModule]                                                     | Create module.                                                          |
 | ng g m [nameModule]                                                                 | Create module.                                                          |
 | ng generate service [nameService]                                                   | Create service.                                                         |
+| ng g s [nameService]                                                                | Create service.                                                         |
 | ng version                                                                          |                                                                         |
 | ng serve                                                                            |                                                                         |
 | ng add @angular/material                                                            | Add component Angular Material.                                         |
